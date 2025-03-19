@@ -531,7 +531,7 @@ st.markdown("""
     }
     
     .nav-item {
-        color: white;
+        color: black; /* Change font color to black */
         text-decoration: none;
         margin: 0 15px;
         font-weight: 500;
